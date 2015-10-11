@@ -1,0 +1,20 @@
+{
+  "name": "web-client",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Fomoro EB and S3 Web Client",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "danielleswank",
+  "homepage": "//fomoro.com",
+  "engines": {
+    "node": "4.1.2"
+  }
+}
